@@ -1,0 +1,27 @@
+/*#texto {
+
+-moz-transform: translate(-6px, 4px);
+-webkit-transform: translate(-6px, 4px);
+-o-transform: translate(-6px, 4px);
+-ms-transform: translate(-6px, 4px);
+transform: translate(-6px, 4px);
+}*/
+
+/*#demo {
+background: #D0E4F5 url("https://s3-sa-east-1.amazonaws.com/germek/wp-content/uploads/2016/06/09073241/quadrado-azul.png") repeat-y scroll -50px 31px;
+}*/
+
+/*.melhorar{
+	padding-left: 40px;
+	background-color: blue;
+}
+*/
+#texto{
+	padding-left: 20px;
+}
+
+/*body{
+background-color: lightblue;;
+}
+
+*/
